@@ -1,0 +1,109 @@
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+
+
+  <script src="//code.jquery.com/jquery-1.10.2.js"></script>
+  <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+  <link rel="stylesheet" href="/resources/demos/style.css">
+  <script>
+    $(function() {
+      var availablesay = [
+        "hello",
+        "hi",
+        "bye",
+        "what are you",
+        "who are you",
+        "what is life",
+        "open the pod bay doors",
+        "what is your favorite color",
+        "i love you",
+        "how are you",
+        "what is love",
+        "do i have a life",
+
+      ];
+      $("#say").autocomplete({
+        source: availablesay
+      });
+    });
+  </script>
+</head>
+
+
+<div id="clockbox" style="font:20pt lato; color:black; font-weight:200; Opacity:0.5; position:absolute;  left:15px; top:4px; float:left;">
+  <script type="text/javascript">
+    function GetClock() {
+      var d = new Date();
+      var nhour = d.getHours(),
+        nmin = d.getMinutes(),
+        ap;
+      if (nhour == 0) {
+        ap = " AM";
+        nhour = 12;
+      } else if (nhour < 12) {
+        ap = " AM";
+      } else if (nhour == 12) {
+        ap = " PM";
+      } else if (nhour > 12) {
+        ap = " PM";
+        nhour -= 12;
+      }
+
+      if (nmin <= 9) nmin = "0" + nmin;
+
+      document.getElementById('clockbox').innerHTML = "" + nhour + ":" + nmin + ap + "";
+    }
+
+    window.onload = function() {
+      GetClock();
+      setInterval(GetClock, 1000);
+    }
+  </script>
+
+</div>
+
+
+<div class="wrapper" onload="myFunction()">
+  <div class="loading-wrapper">
+    <div class="loader">
+      <div class="inner"></div>
+    </div>
+  </div>
+</div>
+<center>
+
+</center>
+<div style="position:relative; top:80%; ">
+
+  <center>
+
+    <p id="response" style="font:20pt lato;  font-weight:200; ">Hello There!</p>
+
+    <textbox id="talk" method="get" opacity="0.3" target="_blank">
+      <input id="say" placeholder="Talk To Miku" onkeypress="return makeresponse()"></input>
+
+    </textbox>
+
+    <button type="button" onclick="makeresponse()" id="respondbutton">
+
+      Confirm</button>
+
+    <!DOCTYPE html>
+    <html>
+
+    <body>
+
+
+      <body onload="timehello()">
+
+        <p id="time"></p>
+
+        <script>
+        </script>
+  </center>
+</div>
+</body>
+
+</html>
