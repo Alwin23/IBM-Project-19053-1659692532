@@ -60,3 +60,9 @@ But, you can choose other metrics that are important to you.
 
 So, the “Banking status check” gets 18 points.
 Do this with every process on your list and then choose for automation those with the highest scores. 
+
+>Choosing channels and languages
+
+<img src=https://botscrew.com/wp-content/uploads/2021/02/channels-1024x276.png>
+
+<img src =https://botscrew.com/wp-content/uploads/2018/09/languages-min-1-882x1024.jpg>
