@@ -3,6 +3,7 @@ __Chatbot Development__
 >Chatbot development is a complex process. But if planned correctly, it can become a piece of cake. When starting chatbot development, the main thing is to break this process into clear steps and go by them one by one. So, here we tried to make your life easier and created step-by-step instructions for chatbot development.
 
 <img src =https://1330878074.rsc.cdn77.org/wp-content/uploads/2019/09/7-Ways-to-Convert-Your-Visitors-into-Customers-Using-an-Intelligent-Chatbot-guest-post.jpg>
+
 -> Define the chatbot goal or goals
 
 -> Define areas that the chatbot can take over
@@ -65,4 +66,4 @@ Do this with every process on your list and then choose for automation those wit
 
 <img src=https://botscrew.com/wp-content/uploads/2021/02/channels-1024x276.png>
 
-<img src =https://botscrew.com/wp-content/uploads/2018/09/languages-min-1-882x1024.jpg>
+<img src =https://botscrew.com/wp-content/uploads/2018/09/languages-min-1-882x1024.jpg width="500" height="600">
