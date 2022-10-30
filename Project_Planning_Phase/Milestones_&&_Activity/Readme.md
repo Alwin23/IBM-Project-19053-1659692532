@@ -28,6 +28,7 @@ __Chatbot Development__
 -> It’s time to scale!
 
 
+
 >Define the chatbot goal or goals
 
 You need to understand the reason for implementing a chatbot. Stop for a second and ask yourself two questions: 
@@ -37,3 +38,25 @@ You need to understand the reason for implementing a chatbot. Stop for a second 
 “What will exactly a chatbot be doing?”
 
 <img src=https://lh5.googleusercontent.com/E_FD0Nlz2iwpnCu82sr9VgZxo0zTviTDvRqgYYop-dAGgBi2BS0WpqgSVva12St9Nfx2VpB2sg5qqe2dnPIPawyPnTrV7MImStuyFSZlpbScQorrAQFd2uyu9q_TJA>
+
+
+We’ll start by defining the main customer intents when contacting your customer service.
+
+To do so, we create categories with the most popular customer requests on the same topic.
+
+>Define areas that the chatbot can take ove
+
+You can assess processes based on:
+
+Ease – how easy do you think it will be to automate these customer requests?
+
+Importance– how important for you to automate these customer requests?
+
+Time – how much time do you think this will take to automate?
+
+Impact – what impact will it have on your business/customer service if you automate this category with customer requests?
+
+But, you can choose other metrics that are important to you.
+
+So, the “Banking status check” gets 18 points.
+Do this with every process on your list and then choose for automation those with the highest scores. 
