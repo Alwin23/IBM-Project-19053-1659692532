@@ -27,10 +27,10 @@ __Chatbot Development__
 -> Add integrations and connect must-have tools
 
 -> It’s time to scale!
+<img src =https://botscrew.com/wp-content/uploads/2022/05/pic-6.png>
 
 
-
->Define the chatbot goal or goals
+>____Define the chatbot goal or goals____
 
 You need to understand the reason for implementing a chatbot. Stop for a second and ask yourself two questions: 
 
@@ -67,3 +67,4 @@ Do this with every process on your list and then choose for automation those wit
 <img src=https://botscrew.com/wp-content/uploads/2021/02/channels-1024x276.png>
 
 <img src =https://botscrew.com/wp-content/uploads/2018/09/languages-min-1-882x1024.jpg width="500" height="600">
+
