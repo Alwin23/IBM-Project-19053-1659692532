@@ -30,9 +30,10 @@ __Chatbot Development__
 
 >Define the chatbot goal or goals
 
-So, now that you know whether you need a chatbot or not, let’s move further into chatbot development planning. 
-
 You need to understand the reason for implementing a chatbot. Stop for a second and ask yourself two questions: 
 
 “Which problem would the chatbot solve?”
+
 “What will exactly a chatbot be doing?”
+
+<img src=https://lh5.googleusercontent.com/E_FD0Nlz2iwpnCu82sr9VgZxo0zTviTDvRqgYYop-dAGgBi2BS0WpqgSVva12St9Nfx2VpB2sg5qqe2dnPIPawyPnTrV7MImStuyFSZlpbScQorrAQFd2uyu9q_TJA>
