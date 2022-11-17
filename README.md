@@ -2,6 +2,8 @@
 
 ## AI based discourse for Banking Industry
 
+**Project Link:** https://rawcdn.githack.com/IBM-EPBL/IBM-Project-19053-1659692532/2b98df1a1fda5fde734c6c3cbc93ef0cc55b4df9/WEBPAGE/index.html
+
 **Team ID:** PNT2022TMID37186
 
 
@@ -26,9 +28,6 @@
 - [x] Assignment 2
 - [x] Assignment 3
 - [x] Assignment 4
-
-
-**Project Link:** https://rawcdn.githack.com/IBM-EPBL/IBM-Project-19053-1659692532/2b98df1a1fda5fde734c6c3cbc93ef0cc55b4df9/WEBPAGE/index.html
 
 ### Tasks
 
