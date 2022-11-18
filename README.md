@@ -7,7 +7,7 @@
 **Team ID:** PNT2022TMID37186
 
 
-**Batch:** B10-4A6E
+**Batch:** B10-4A6E 
 
 ![alt text](https://149695847.v2.pressablecdn.com/wp-content/uploads/2018/02/Hey-Siri-iPad-AAPro-By-JQason-Zigrino-wallpaper.jpg)
 # TEAM 
@@ -22,7 +22,7 @@
 
 * SRIPRAVEEN S
 
-### Assignments  : completed
+### Assignments  : Completed
 
 - [x] Assignment 1
 - [x] Assignment 2
